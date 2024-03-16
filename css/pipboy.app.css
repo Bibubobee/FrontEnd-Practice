@@ -7,6 +7,18 @@ ul > li.nav-item > a.nav-link, ul > li.nav-item > a.nav-link.active {
     color: #5afc69;
 }
 
+.nav-tabs {
+    border-color: #5afc69;
+}
+
+ul.nav-tabs > li.nav-item > a.active {
+    background-color: #5afc69;
+    color:#2c3028;
+    border-color: #5afc69;
+
+}
+
+
 
 .center-image img{
     height: 300px;
